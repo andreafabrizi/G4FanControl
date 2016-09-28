@@ -1,7 +1,7 @@
 # G4FanControl
 
 **G4FanControl** is a software I've developed more or less 10 years ago, when I faced overheating problems with my old PowerBook G4. 
-I sold it for some years and now I decided to make it free and opensource.
+I sold it for some years and now I decided to make it free and opensource. The code is available on [GitHub](https://github.com/andreafabrizi/G4FanControl/)
 
 As anyone who has put their hands on this wonderful laptop can confirm, the operating temperatures quickly climb and it soon becomes 
 practically impossible to touch, especially on the bottom under the display. 
@@ -26,8 +26,9 @@ $ make
 ```
 
 ## Precompiled packages
+[G4FanControl 0.6.1 with GUI](https://github.com/andreafabrizi/G4FanControl/blob/master/dist/G4FanControl_0.6.1.dmg?raw=true)
 
-[Download Widget 0.1](https://www.andreafabrizi.it/files/g4fancontrol_widget_0.1.zip) (Require G4FanControl 0.6.1)
+[Widget 0.1](https://www.andreafabrizi.it/files/g4fancontrol_widget_0.1.zip) (Require G4FanControl 0.6.1)
 
 # Changelog
 
